@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/copula_synth/__init__.py
+src/copula_synth/core.py
+src/copula_synth.egg-info/PKG-INFO
+src/copula_synth.egg-info/SOURCES.txt
+src/copula_synth.egg-info/dependency_links.txt
+src/copula_synth.egg-info/top_level.txt
+tests/test_core.py
